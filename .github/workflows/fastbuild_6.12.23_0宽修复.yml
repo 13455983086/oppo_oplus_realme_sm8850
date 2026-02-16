@@ -4,7 +4,7 @@ env:
   TZ: Asia/Shanghai
   ANDROID_VERSION: 'android16'
   KERNEL_VERSION: '6.12'
-  KERNEL_NAME: 'android16-5-ga8f88ad96df3-ab13929693-4k'
+  KERNEL_NAME: '定制内核Oneplus_qf'
 
 on:
   workflow_dispatch:
